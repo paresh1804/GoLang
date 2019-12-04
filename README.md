@@ -1,11 +1,3 @@
-# GoLang
-
-As a user I need to upload a Excel file and convert it to a xml file which will then be processed in the TMS system
-
-The source data is received from users not familar with technology/coding, hence provide data in a predefined excel format. 
-
-Below is the code for converting csv to xml. 
-
 package main
 
 import (
